@@ -1,0 +1,28 @@
+{
+  "articles": [
+    {
+      "id": "1",
+      "milliyTaomlar": "Palov",
+      "muallif": "Wikipedia",
+      "homeimg": "https://blog.urbanadventures.com/wp-content/uploads/2018/05/samarkand_plov.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Polu.jpg/1280px-Polu.jpg",
+      "tavsif": "Masalligʻi va tayyorlanish uslubi boʻyicha xilma-xil turlarga boʻlinadi va har bir mamlakatda oʻzgacha tarzda tayyorlanadi. Taom asosini guruch tashkil etadi. Ushbu masalliqdan tashqari yogʻ, goʻsht, sabzi, piyoz va boshqa masalliqlar ishlatiladi. Palov tayyorlanish va tarqalish boʻyicha asosan Oʻrta Osiyo va Yaqin Sharq xalqlari orasida ommabop hisoblanadi. Jumladan, Oʻzbekistonda oʻzbekcha palov oʻzbek oshxonasining eng asosiy taomlaridan biri hisoblanib, har bir xonadonda, toʻy-hashamlarda va dunyoning boshqa davlatlarida sevib isteʼmol qilinmoqda."
+    },
+    {
+      "id": "2",
+      "milliyTaomlar": "Somsa",
+      "muallif": "Wikipedia",
+      "homeimg": "https://hozoboz.com/wp-content/uploads/2021/08/Samosa.jpg",
+      "image": "https://chaihanadastarhan.ru/upload/corvax.mini/d08/d0894dc5d5562c11ab3c9da9c5a6fad7.png",
+      "tavsif": "Oʻzbek pazandaligida somsa asosan, tandirga yopib dumaloq shaklda tayyorlanadi. Hozir gaz duxovkalarida uchburchak va toʻrtburchak shaklida ham pishiriladi. Somsa tayyorlash uchun bugʻdoy unidan xamir qorilib, jild tayyorlanadi. Somsaga koʻpincha Sirka, pomidor qaylasi, Jizzax somsasiga esa oʻsimlik moyi sepilib tanovul qilinadi. Yevropa davlatlari koʻchalarda hot-dog sotilganidek, Oʻzbekiston, Qozogʻiston, Tatariston, Qirgʻiziston kabi davlatlarning aholi yashash joylarida somsa koʻchma tandirlarda yopilib, koʻchalarda, bozorlarda ham sotiladi.[5][6]"
+    },
+    {
+      "id": "3",
+      "milliyTaomlar": "Shashlik",
+      "muallif": "Wikipedia",
+      "homeimg": "https://lh3.googleusercontent.com/proxy/3MjUE8auJvBuxbhRXqc50fW18yFkdun6IJadVD2xP07uEX6x94Sd0LT-3gNUiXquA_Zcq04Y14ydhVp72r1wWbx8pm5CjEvb1z1h637AktlXCUUQ8EKLgM2c",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Shashlik.jpg/1280px-Shashlik.jpg",
+      "tavsif": "Shashlik yoki kabob — choʻgʻda pishirib (kuydirib) tayyorlanadigan goʻshtli taom. Anʼanaviy shashlik tindiriligan va oʻrtacha kattalikda toʻgʻralgan goʻshtdan tayyorlanadi. Goʻsht, jigar, buyrak, dumba, charvi va b. masalliklardan Six K., titrama K., qozon K., parranda K., qiyma K., tandir K., pomidor K., dumbul K., charvi K., loʻla K. va b. turlari bor. Six K. — qoʻy goʻshtining lahm hamda dumba qismlaridan olib, har biri 10— 12 g keladigan loʻnda-loʻnda boʻlaklarga boʻlinadi, unga mayda toʻgʻralgan piyoz, tuz, qalampir (murch), kashnich urugʻi, zira, uzum sirkasi (anor yoki limon suvi) aralashtiriladi. Masalliq sirlangan yoki chinni idishga solinib, bir necha soat (4 soatdan 24 soatgacha) salqin joyda saqlanadi. Soʻngra goʻsht sixga 5—6 boʻlakdan qilib oʻtkaziladi (sixning uchida yogʻ boʻlishi kerak). Sixlar koʻrada toshkoʻmir yoki pista koʻmir choʻgʻida pishiriladi. K.ning bir tomoni qizarib pishgandan soʻng ikkinchi tomonini agʻdarish kerak. 1 kg goʻshtga 2—3 bosh piyoz, 1 choy qoshiqsa tuz, 4 osh qoshiqda uzum sirkasi (yoki bir dona limon); ziravor taʼbga koʻra kerak boʻladi. Qiyma K. — goʻsht qiymalagichdan 2 marta, piyoz bir marta oʻtkazilgach, qiyma tayyorlanadi. Qiymaga tuxum chaqilib qalampir, tuz aralashtiriladi. Soʻng qiymadan 50—60 g keladigan kiftalar yasaladi va uzunasiga sixga oʻtkaziladi. Kifta ustiga un sepib yuqorida aytilgandek choʻgʻda pishiriladi. 1 kg goʻshtga 3 bosh piyoz, 1 dona tuxum, 3—4 qoshiq un; ziravorlar kerak boʻladi. Dumbul K. — makkajoʻxorining dumbul soʻtasidan tayyorlanadi. Tozalangan soʻta 3—4 sm dan qilib kesiladi va namakobga 2—3 soat solib qoʻyiladi. Soʻng 2—3 donadan qilib sixga oʻtkaziladi va laxcha choʻgʻda pishiriladi."
+    }
+  ]
+}
